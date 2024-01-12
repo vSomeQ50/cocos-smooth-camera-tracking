@@ -6,3 +6,5 @@ This is an open-source sample project for Cocos Creator that provides utilities 
 
 - Smooth camera tracking for enhanced gaming experience.
 - Accurate calculation of screen touch coordinates.
+
+![Demo](demo.gif)
